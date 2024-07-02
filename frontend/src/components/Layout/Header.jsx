@@ -13,7 +13,7 @@ function Header() {
   return (
     <div >
         { !isActive &&
-            <div onClick={()=>setIsActive(true)} className='text-4xl mt-16 mx-10 fixed cursor-pointer'>
+            <div onClick={()=>setIsActive(true)} className='text-4xl mt-10 mx-10 fixed cursor-pointer'>
                 <IoMenu/>
             </div>
         }

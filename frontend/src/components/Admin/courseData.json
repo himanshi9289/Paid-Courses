@@ -1,0 +1,37 @@
+[
+    {
+    "id":"1231212",
+    "posterUrl" : "https://cdn.pixabay.com/photo/2020/07/27/14/34/stars-5442598_1280.jpg",
+    "title":"Some course",
+    "category":"Web Development",
+    "creator":"Paid Course",
+    "views":"12342123",
+    "lectures":[{
+      "id":"1",
+      "title":"intro to react",
+      "description":"wqwqwe",
+      "videoUrl":""
+    },
+    {
+        "id":"2",
+        "title":"React Management",
+        "description":"wqwqwe",
+        "videoUrl":""
+      }
+    ]
+  },
+  {
+    "id":"1231213",
+    "posterUrl" : "https://cdn.pixabay.com/photo/2020/07/27/14/34/stars-5442598_1280.jpg",
+    "title":"Some course",
+    "category":"Web Development",
+    "creator":"Paid Course",
+    "views":"12342123",
+    "lectures":[{
+      "id":"1",
+      "title":"intro to Machine Learning",
+      "description":"sddsada",
+      "videoUrl":""
+    }]
+  }
+]

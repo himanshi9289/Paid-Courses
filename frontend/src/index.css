@@ -5,3 +5,7 @@
 .btn{
     @apply my-2 bg-yellow-500 hover:bg-yellow-600 focus:outline-none focus:ring-4 focus:ring-yellow-400 font-medium px-5 py-2.5 text-center me-2 mb-2 dark:focus:ring-yellow-900 transition-all duration-100 ease-in-out delay-100
 }
+
+.input{
+    @apply border-[#d0d0d8] border-2 rounded-md w-full mb-4 py-1 px-2 my-1 focus:outline-none  focus:border-yellow-500
+}
